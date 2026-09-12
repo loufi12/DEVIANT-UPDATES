@@ -8,14 +8,14 @@
 <p align="center">
   <a href="https://github.com/loufi12/DEVIANT-UPDATES/releases/latest"><img src="https://img.shields.io/github/v/release/loufi12/DEVIANT-UPDATES?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=2ea043" alt="Latest release"></a>
   <a href="https://github.com/loufi12/DEVIANT-UPDATES/releases/latest"><img src="https://img.shields.io/github/downloads/loufi12/DEVIANT-UPDATES/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=0969da" alt="Downloads"></a>
-  <a href="https://www.virustotal.com/gui/file/bc25ee9199b65e3ab72ff554769d4f91eeb6161823400d39185a20fa61613520"><img src="https://img.shields.io/badge/VirusTotal-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C_файл-394eff" alt="VirusTotal"></a>
+  <a href="https://www.virustotal.com/gui/file/099e18a89a63afc8178301ce882371175ce738301218dddadf64ea43e303e9c2"><img src="https://img.shields.io/badge/VirusTotal-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C_файл-394eff" alt="VirusTotal"></a>
   <a href="https://discord.gg/fNTh4mRk3w"><img src="https://img.shields.io/badge/Discord-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-5865F2" alt="Discord"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/loufi12/DEVIANT-UPDATES/releases/latest"><strong>📥 Скачать последнюю версию</strong></a>
   ·
-  <a href="https://www.virustotal.com/gui/file/bc25ee9199b65e3ab72ff554769d4f91eeb6161823400d39185a20fa61613520"><strong>🛡️ Проверить на вирусы</strong></a>
+  <a href="https://www.virustotal.com/gui/file/099e18a89a63afc8178301ce882371175ce738301218dddadf64ea43e303e9c2"><strong>🛡️ Проверить на вирусы</strong></a>
   ·
   <a href="https://discord.gg/fNTh4mRk3w"><strong>🎮 Discord</strong></a>
 </p>
@@ -36,10 +36,10 @@ DEVIANT TOOL — программа для слабых и средних ПК, 
 
 | | |
 |---|---|
-| **VirusTotal** | [Открыть отчёт по этому файлу](https://www.virustotal.com/gui/file/bc25ee9199b65e3ab72ff554769d4f91eeb6161823400d39185a20fa61613520) |
+| **VirusTotal** | [Открыть отчёт по этому файлу](https://www.virustotal.com/gui/file/099e18a89a63afc8178301ce882371175ce738301218dddadf64ea43e303e9c2) |
 | **Загрузить сами** | [virustotal.com/gui/home/upload](https://www.virustotal.com/gui/home/upload) — выберите скачанный `DEVIANT TOOL.exe` |
-| **SHA256** | `BC25EE9199B65E3AB72FF554769D4F91EEB6161823400D39185A20FA61613520` |
-| **Версия** | 1.1.2 |
+| **SHA256** | `099E18A89A63AFC8178301CE882371175CE738301218DDDADF64EA43E303E9C2` |
+| **Версия** | 1.1.3 |
 | **Размер** | ≈ 30 МБ |
 
 Как сверить хеш на своём компьютере (PowerShell):
@@ -64,13 +64,12 @@ Get-FileHash -LiteralPath "$env:USERPROFILE\Downloads\DEVIANT TOOL.exe" -Algorit
 
 ---
 
-## ✨ Что нового в 1.1.2
+## ✨ Что нового в 1.1.3
 
-- Починен вылет на главной
-- Окно можно тащить за шапку
-- Первый запуск с иконками, страница **Прочее** слева вместо кнопки «Ещё»
-- Обновление ставится только если SHA256 совпал с README и релизом
-- Крестик больше не оставляет иконку в трее
+- Окно обновления своё, в стиле программы
+- Короткий список изменений без markdown
+- Кнопки Установить и Позже
+- После скачивания тоже своя карточка, сверка SHA256
 
 ---
 
@@ -101,7 +100,7 @@ Get-FileHash -LiteralPath "$env:USERPROFILE\Downloads\DEVIANT TOOL.exe" -Algorit
 ## 🚀 Как пользоваться
 
 1. Скачайте exe из [последнего релиза](https://github.com/loufi12/DEVIANT-UPDATES/releases/latest).
-2. Проверьте на [VirusTotal](https://www.virustotal.com/gui/file/bc25ee9199b65e3ab72ff554769d4f91eeb6161823400d39185a20fa61613520).
+2. Проверьте на [VirusTotal](https://www.virustotal.com/gui/file/099e18a89a63afc8178301ce882371175ce738301218dddadf64ea43e303e9c2).
 3. Запустите. Для системных пунктов — от имени администратора.
 4. Пресет или «Оптимизировать».
 5. Если меняли графику на запущенной GTA — выйдите из персонажа и зайдите снова.
